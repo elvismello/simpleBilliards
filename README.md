@@ -20,4 +20,4 @@ With these two requirements installed, the script can be executed with ```python
 
 ## Methods
 
-It uses the leapfrog method for integrating position and velocity.
+It uses the leapfrog method for integrating position and velocity. Collisions aren't always detected yet.
